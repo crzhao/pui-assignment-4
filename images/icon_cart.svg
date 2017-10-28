@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="32px" viewBox="0 0 50 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Detail-Copy" transform="translate(-1198.000000, -37.000000)">
+            <g id="Nav-Copy" transform="translate(0.000000, -52.000000)">
+                <g id="cart" transform="translate(1198.000000, 91.000000)">
+                    <polyline id="Path-2" stroke="#FFFFFF" stroke-width="3" points="0.265370867 0.0533143428 7.77098452 0.0533143428 16.3132294 23.3079523 39.5013989 23.3079523 45.7901465 3.27805734 49.3882992 3.27805734"></polyline>
+                    <ellipse id="Oval" fill="#FFFFFF" fill-rule="evenodd" cx="19.6428571" cy="27.5" rx="2.67857143" ry="2.5"></ellipse>
+                    <ellipse id="Oval-Copy" fill="#FFFFFF" fill-rule="evenodd" cx="35.7142857" cy="27.5" rx="2.67857143" ry="2.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

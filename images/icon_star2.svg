@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="19px" viewBox="0 0 108 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>stars</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-92.000000, -1959.000000)">
+            <g id="shape" transform="translate(0.000000, 1082.000000)">
+                <rect id="bg" fill="#E6E6E6" x="0" y="0" width="1280" height="1428"></rect>
+                <g id="Pictures-Copy-10" transform="translate(81.000000, 610.000000)">
+                    <g id="photo-1_Ma-is-comparing-the-PM-values-of-measuring-device-and-air-cleaner">
+                        <rect id="Rectangle-2" x="0" y="227.433717" width="330" height="102"></rect>
+                    </g>
+                    <g id="stars" transform="translate(11.000000, 267.000000)" fill="#FFBF00">
+                        <polygon id="Star" points="9.98609342 15.75 3.81434827 18.9946784 4.99304671 12.1223392 9.95870053e-14 7.25532156 6.90022085 6.25266078 9.98609342 0 13.071966 6.25266078 19.9721868 7.25532156 14.9791401 12.1223392 16.1578386 18.9946784"></polygon>
+                        <polygon id="Star-Copy" points="37.9860934 15.75 31.8143483 18.9946784 32.9930467 12.1223392 28 7.25532156 34.9002208 6.25266078 37.9860934 0 41.071966 6.25266078 47.9721868 7.25532156 42.9791401 12.1223392 44.1578386 18.9946784"></polygon>
+                        <polygon id="Star-Copy-2" points="65.9860934 15.75 59.8143483 18.9946784 60.9930467 12.1223392 56 7.25532156 62.9002208 6.25266078 65.9860934 0 69.071966 6.25266078 75.9721868 7.25532156 70.9791401 12.1223392 72.1578386 18.9946784"></polygon>
+                        <polygon id="Star-Copy-3" points="93.9860934 15.75 87.8143483 18.9946784 88.9930467 12.1223392 84 7.25532156 90.9002208 6.25266078 93.9860934 0 97.071966 6.25266078 103.972187 7.25532156 98.9791401 12.1223392 100.157839 18.9946784"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
